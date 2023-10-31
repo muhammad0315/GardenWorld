@@ -914,3 +914,9 @@ footer .footer-inner .part-2 .contact .num{
     height: 100%;
     border-radius: 10px;
 }
+
+/* Fence Page Start */
+
+.fence {
+    background-image: url(../images/fence-banner.jpg);
+}
