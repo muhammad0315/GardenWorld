@@ -480,13 +480,13 @@ header .sub-nav .sub-nav-text a:hover {
     margin-top: 20px;
 }
 
-.cards .swiper-button-next{
+.cards .swiper-button-next {
     position: absolute;
     margin-right: 30px;
     color: #fff;
 }
 
-.cards .swiper-button-prev{
+.cards .swiper-button-prev {
     position: absolute;
     margin-left: 30px;
     color: #fff;
@@ -519,20 +519,20 @@ header .sub-nav .sub-nav-text a:hover {
     border-radius: 5px;
 }
 
-.seasonal-tips .sea-cards .sea-card img{
+.seasonal-tips .sea-cards .sea-card img {
     width: 100%;
     height: 50%;
     object-fit: cover;
 }
 
-.seasonal-tips .sea-cards .sea-card h3{
+.seasonal-tips .sea-cards .sea-card h3 {
     font-size: 1.9rem;
     font-weight: 500;
     text-align: center;
     margin-top: 20px;
 }
 
-.seasonal-tips .sea-cards .sea-card p{
+.seasonal-tips .sea-cards .sea-card p {
     font-size: 1rem;
     font-weight: 400;
     text-align: center;
@@ -543,7 +543,7 @@ header .sub-nav .sub-nav-text a:hover {
 
 /* News letter Start */
 
-.newsletter{
+.newsletter {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -554,7 +554,7 @@ header .sub-nav .sub-nav-text a:hover {
     height: 25vh;
 }
 
-.newsletter .news-text h2{
+.newsletter .news-text h2 {
     color: var(--light);
     font-weight: 600;
     text-align: center;
@@ -590,7 +590,7 @@ header .sub-nav .sub-nav-text a:hover {
 
 /* Footer Start */
 
-footer{
+footer {
     width: 100%;
     height: 80vh;
     position: relative;
@@ -602,7 +602,7 @@ footer{
     object-fit: cover;
 }
 
-footer .footer-inner{
+footer .footer-inner {
     width: 100%;
     height: 90%;
     display: flex;
@@ -610,7 +610,7 @@ footer .footer-inner{
     justify-content: space-between;
 }
 
-footer .footer-inner .part-1{
+footer .footer-inner .part-1 {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -619,11 +619,11 @@ footer .footer-inner .part-1{
 
 }
 
-footer .footer-inner .part-1 a img{
+footer .footer-inner .part-1 a img {
     margin-top: 5px;
 }
 
-footer .footer-inner .part-1 p{
+footer .footer-inner .part-1 p {
     font-size: 1rem;
     font-weight: 100;
     text-align: justify;
@@ -632,13 +632,13 @@ footer .footer-inner .part-1 p{
     margin-top: 10px;
 }
 
-footer .footer-inner .part-1 .social{
+footer .footer-inner .part-1 .social {
     display: flex;
     gap: 20px;
     margin-bottom: 30px;
 }
 
-footer .footer-inner .part-1 .social i{
+footer .footer-inner .part-1 .social i {
     padding: 12px;
     border-radius: 100px;
     border: 0.8px solid var(--secondary);
@@ -648,13 +648,13 @@ footer .footer-inner .part-1 .social i{
     transition: all 0.4s;
 }
 
-footer .footer-inner .part-1 .social i:hover{
+footer .footer-inner .part-1 .social i:hover {
     background-color: var(--bg-color);
     color: #fff;
     border: 0.8px solid var(--bg-color);
 }
 
-footer .footer-inner .part-2{
+footer .footer-inner .part-2 {
     display: flex;
     justify-content: space-between;
     height: 65%;
@@ -662,18 +662,18 @@ footer .footer-inner .part-2{
     gap: 20px;
 }
 
-footer .footer-inner .part-2 h2{
+footer .footer-inner .part-2 h2 {
     font-size: 1.3rem;
     font-weight: 600;
     color: var(--bg-color);
     margin-bottom: 25px;
 }
 
-footer .footer-inner .part-2 a{
+footer .footer-inner .part-2 a {
     text-decoration: none;
 }
 
-footer .footer-inner .part-2 a h4{
+footer .footer-inner .part-2 a h4 {
     font-size: 1.1rem;
     font-weight: 400;
     color: var(--bg-color);
@@ -681,11 +681,11 @@ footer .footer-inner .part-2 a h4{
     transition: all 0.3s;
 }
 
-footer .footer-inner .part-2 a h4:hover{
-   color: var(--primary);
+footer .footer-inner .part-2 a h4:hover {
+    color: var(--primary);
 }
 
-footer .footer-inner .part-2 .contact .email{
+footer .footer-inner .part-2 .contact .email {
     font-size: 0.9rem;
     font-weight: 300;
     color: var(--primary);
@@ -693,14 +693,14 @@ footer .footer-inner .part-2 .contact .email{
     margin-bottom: 15px;
 }
 
-footer .footer-inner .part-2 .contact .address{
+footer .footer-inner .part-2 .contact .address {
     font-size: 1.2rem;
     font-weight: 400;
     color: var(--bg-color);
     margin-bottom: 15px;
 }
 
-footer .footer-inner .part-2 .contact .num{
+footer .footer-inner .part-2 .contact .num {
     font-size: 1.5rem;
     font-weight: 400;
     color: var(--primary);
@@ -714,7 +714,7 @@ footer .footer-inner .part-2 .contact .num{
 
 /* Banner Start */
 
-.banner{
+.banner {
     width: 100%;
     height: 40vh;
     display: flex;
@@ -727,20 +727,20 @@ footer .footer-inner .part-2 .contact .num{
     background-size: cover;
 }
 
-.banner .banner-text{
+.banner .banner-text {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
 
-.banner .banner-text h1{
+.banner .banner-text h1 {
     font-size: 3rem;
     font-weight: 600;
     color: #fff;
 }
 
-.banner .banner-text p{
+.banner .banner-text p {
     font-size: 1.1rem;
     font-weight: 400;
     color: #fff;
@@ -751,7 +751,7 @@ footer .footer-inner .part-2 .contact .num{
 
 /* Content Start */
 
-.content{
+.content {
     width: 100%;
     height: auto;
     background-image: url(../images/page-back.jpg);
@@ -760,18 +760,18 @@ footer .footer-inner .part-2 .contact .num{
     padding-bottom: 20px;
 }
 
-.content .container{
+.content .container {
     width: 100%;
     height: 100%;
 }
 
-.content .container .part1{
+.content .container .part1 {
     width: 100%;
     height: auto;
     position: relative;
 }
 
-.content .container .part1 .text h1{
+.content .container .part1 .text h1 {
     font-size: 3rem;
     font-weight: 600;
     color: var(--bg-color);
@@ -788,7 +788,7 @@ footer .footer-inner .part-2 .contact .num{
     margin-top: 15px;
 }
 
-.content .container .part1 .image{
+.content .container .part1 .image {
     height: 400px;
     width: 100%;
     display: flex;
@@ -798,7 +798,7 @@ footer .footer-inner .part-2 .contact .num{
     padding: 30px;
 }
 
-.content .container .part1 .image img{
+.content .container .part1 .image img {
     width: 50%;
     height: 100%;
     object-fit: cover;
@@ -806,29 +806,30 @@ footer .footer-inner .part-2 .contact .num{
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
-.content .container .part2{
+.content .container .part2 {
     width: 100%;
     height: auto;
     margin-top: 40px;
 }
 
-.content .container .part2 h1{
+.content .container .part2 h1 {
     padding: 10px 0;
     font-size: 2.5rem;
     font-weight: 600;
     color: var(--bg-color);
     text-transform: capitalize;
-    
+
 }
 
-.content .container .part2 .text h2{
+.content .container .part2 .text h2 {
     font-size: 2rem;
     font-weight: 500;
     color: var(--bg-color);
     margin-bottom: 20px;
+    text-transform: capitalize;
 }
 
-.content .container .part2 .text p{
+.content .container .part2 .text p {
     font-size: 1.1rem;
     font-weight: 300;
     color: var(--bg-color);
@@ -844,13 +845,13 @@ footer .footer-inner .part-2 .contact .num{
     background-image: url(../images/plant-banner.jpg);
 }
 
-.ban-text{
+.ban-text {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.462);
 }
 
-.content .container .part-2{
+.content .container .part-2 {
     width: 100%;
     height: 60vh;
     display: flex;
@@ -860,20 +861,20 @@ footer .footer-inner .part-2 .contact .num{
     margin-bottom: 20px;
 }
 
-.content .container .part-2 .text{
+.content .container .part-2 .text {
     width: 60%;
     height: 100%;
     padding: 30px 0;
 }
 
-.content .container .part-2 .text h2{
+.content .container .part-2 .text h2 {
     font-size: 2.2rem;
     font-weight: 500;
     color: var(--bg-color);
     margin-bottom: 18px;
 }
 
-.content .container .part-2 .text p{
+.content .container .part-2 .text p {
     font-size: 1.1rem;
     font-weight: 300;
     color: var(--bg-color);
@@ -881,12 +882,12 @@ footer .footer-inner .part-2 .contact .num{
     text-align: justify;
 }
 
-.content .container .part-2 .image{
+.content .container .part-2 .image {
     width: 30%;
     height: 100%;
 }
 
-.content .container .part-2 .image img{
+.content .container .part-2 .image img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -896,7 +897,7 @@ footer .footer-inner .part-2 .contact .num{
 
 /* Planting Page Complete */
 
-.watering{
+.watering {
     background-image: url(../images/watering-banner.jpg);
 }
 
@@ -909,7 +910,7 @@ footer .footer-inner .part-2 .contact .num{
     justify-content: center;
 }
 
-.video iframe{
+.video iframe {
     width: 60%;
     height: 100%;
     border-radius: 10px;
@@ -919,4 +920,16 @@ footer .footer-inner .part-2 .contact .num{
 
 .fence {
     background-image: url(../images/fence-banner.jpg);
+}
+
+/* Removing Page Start */
+
+.removing {
+    background-image: url(../images/remove-banner.jpg);
+}
+
+/* Mowing page start */
+
+.moving{
+    background-image: url(../images/moving-banner.jpg);
 }
