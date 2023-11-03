@@ -290,6 +290,7 @@ header .sub-nav .sub-nav-text a:hover {
     height: 180px;
     border-radius: 10px;
     transition: all 0.4s;
+    cursor: pointer;
 }
 
 .main .cards-box .cards-inner .card-1 img {
